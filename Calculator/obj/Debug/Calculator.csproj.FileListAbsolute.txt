@@ -1,0 +1,22 @@
+C:\Users\radze\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\radze\Downloads\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\radze\Downloads\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\radze\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\radze\Downloads\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\radze\Downloads\Calculator\Calculator\obj\Debug\Calculator.Hasil_Perhitungan.resources
+C:\Users\radze\Downloads\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\radze\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\radze\Downloads\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\radze\Downloads\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\radze\Downloads\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\obj\Debug\Calculator.Hasil_Perhitungan.resources
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\GEICO 2\Kuliah\TUGAS\SEMESTER 3\PEMOGRAMAN LANJUT\PRAKTIKUM\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
